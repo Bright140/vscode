@@ -4350,7 +4350,7 @@
     "@vscode/fs-copyfile": "2.0.0",
     "byline": "^5.0.0",
     "file-type": "21.3.2",
-    "picomatch": "2.3.2",
+    "picomatch": "4.0.4",
     "vscode-uri": "^2.0.0",
     "which": "4.0.0"
   },
@@ -4358,7 +4358,7 @@
     "@types/byline": "4.2.31",
     "@types/mocha": "^10.0.10",
     "@types/node": "22.x",
-    "@types/picomatch": "2.3.0",
+    "@types/picomatch": "4.0.3",
     "@types/which": "3.0.0"
   },
   "repository": {
